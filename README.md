@@ -75,8 +75,6 @@ https://www.youtube.com/channel/UCnHLdUptgpBMaZFYZ_yiMAA?si=f5Up8a_bFTqANl29
 000(워터펌프 분사)
 
 
-## 📝 네트워크 아키텍처
-아직 없음
 
 ## 🏗️ Diagram & Flow Chart
 <img width="1430" height="801" alt="image" src="https://github.com/user-attachments/assets/48d9aebc-7e41-4cad-bae6-07df772a5789" />
