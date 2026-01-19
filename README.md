@@ -1,4 +1,5 @@
 <img width="2759" height="133" alt="image" src="https://github.com/user-attachments/assets/28fcf1d5-3cf2-4230-9318-5191a748ad46" />#  SMART_CAR_SYSTEM: 차량 원격 스마트 제어 플랫폼
+<img width="3070" height="1428" alt="image" src="https://github.com/user-attachments/assets/2f382f94-4cc4-466e-801e-0429404a58e5" />
 
 SMART_CAR_SYSTEM은 차량의 AI 기반 자동 및 수동 와이퍼 제어 및 운전 및 주차 제어 기능, 온도에 따른 냉공조 시스템
 웹을 통해 차량의 다양한 기능을 제어할 수 있어 사용자에게 편리한 환경을 제공합니다.
