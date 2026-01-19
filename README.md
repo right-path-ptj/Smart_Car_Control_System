@@ -62,8 +62,7 @@ https://www.youtube.com/channel/UCnHLdUptgpBMaZFYZ_yiMAA?si=f5Up8a_bFTqANl29
 - **개발 언어**: JavaScript
 - **프레임워크**: Node.js, HTML, css
 
-## 📝 시스템 개발 설계서
-아직 안함
+
 
 ### 센서 통신 데이터 포맷
 - uint8_t 21Byte
@@ -80,12 +79,11 @@ https://www.youtube.com/channel/UCnHLdUptgpBMaZFYZ_yiMAA?si=f5Up8a_bFTqANl29
 아직 없음
 
 ## 🏗️ Diagram & Flow Chart
+<img width="1430" height="801" alt="image" src="https://github.com/user-attachments/assets/48d9aebc-7e41-4cad-bae6-07df772a5789" />
+<img width="1430" height="815" alt="image" src="https://github.com/user-attachments/assets/89f8df85-3123-4d97-ac03-fd3d811aabbb" />
+<img width="1400" height="735" alt="image" src="https://github.com/user-attachments/assets/ce4b88e7-4611-4586-8db4-a6d6804c344a" />
 
-<details>
-  <summary>아직 없음</summary>
-  
 
-</details>
 
 
 ## 📌 프로젝트 구조
